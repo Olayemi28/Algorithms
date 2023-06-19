@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Git\Question 13\obj\Debug\net5.0\Question 13.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Git\Question 13\obj\Debug\net5.0\Question 13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Git\Question 13\obj\Debug\net5.0\Question 13.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Git\Question 13\obj\Debug\net5.0\Question 13.AssemblyInfo.cs
+C:\Users\user\Documents\Git\Question 13\obj\Debug\net5.0\Question 13.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Git\Question 13\bin\Debug\net5.0\Question 13.exe
+C:\Users\user\Documents\Git\Question 13\bin\Debug\net5.0\Question 13.deps.json
+C:\Users\user\Documents\Git\Question 13\bin\Debug\net5.0\Question 13.runtimeconfig.json
+C:\Users\user\Documents\Git\Question 13\bin\Debug\net5.0\Question 13.runtimeconfig.dev.json
+C:\Users\user\Documents\Git\Question 13\bin\Debug\net5.0\Question 13.dll
+C:\Users\user\Documents\Git\Question 13\bin\Debug\net5.0\ref\Question 13.dll
+C:\Users\user\Documents\Git\Question 13\bin\Debug\net5.0\Question 13.pdb
+C:\Users\user\Documents\Git\Question 13\obj\Debug\net5.0\Question 13.dll
+C:\Users\user\Documents\Git\Question 13\obj\Debug\net5.0\ref\Question 13.dll
+C:\Users\user\Documents\Git\Question 13\obj\Debug\net5.0\Question 13.pdb
+C:\Users\user\Documents\Git\Question 13\obj\Debug\net5.0\Question 13.genruntimeconfig.cache

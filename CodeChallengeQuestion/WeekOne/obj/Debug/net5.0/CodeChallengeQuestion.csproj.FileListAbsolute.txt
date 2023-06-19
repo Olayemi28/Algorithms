@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\CodeChallengeQuestion\bin\Debug\net5.0\CodeChallengeQuestion.exe
+C:\Users\user\source\repos\CodeChallengeQuestion\bin\Debug\net5.0\CodeChallengeQuestion.deps.json
+C:\Users\user\source\repos\CodeChallengeQuestion\bin\Debug\net5.0\CodeChallengeQuestion.runtimeconfig.json
+C:\Users\user\source\repos\CodeChallengeQuestion\bin\Debug\net5.0\CodeChallengeQuestion.runtimeconfig.dev.json
+C:\Users\user\source\repos\CodeChallengeQuestion\bin\Debug\net5.0\CodeChallengeQuestion.dll
+C:\Users\user\source\repos\CodeChallengeQuestion\bin\Debug\net5.0\ref\CodeChallengeQuestion.dll
+C:\Users\user\source\repos\CodeChallengeQuestion\bin\Debug\net5.0\CodeChallengeQuestion.pdb
+C:\Users\user\source\repos\CodeChallengeQuestion\obj\Debug\net5.0\CodeChallengeQuestion.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\CodeChallengeQuestion\obj\Debug\net5.0\CodeChallengeQuestion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\CodeChallengeQuestion\obj\Debug\net5.0\CodeChallengeQuestion.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\CodeChallengeQuestion\obj\Debug\net5.0\CodeChallengeQuestion.AssemblyInfo.cs
+C:\Users\user\source\repos\CodeChallengeQuestion\obj\Debug\net5.0\CodeChallengeQuestion.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CodeChallengeQuestion\obj\Debug\net5.0\CodeChallengeQuestion.dll
+C:\Users\user\source\repos\CodeChallengeQuestion\obj\Debug\net5.0\ref\CodeChallengeQuestion.dll
+C:\Users\user\source\repos\CodeChallengeQuestion\obj\Debug\net5.0\CodeChallengeQuestion.pdb
+C:\Users\user\source\repos\CodeChallengeQuestion\obj\Debug\net5.0\CodeChallengeQuestion.genruntimeconfig.cache

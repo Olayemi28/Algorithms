@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Tenth Code Challenge\bin\Debug\net5.0\Tenth Code Challenge.exe
+C:\Users\user\Desktop\Tenth Code Challenge\bin\Debug\net5.0\Tenth Code Challenge.deps.json
+C:\Users\user\Desktop\Tenth Code Challenge\bin\Debug\net5.0\Tenth Code Challenge.runtimeconfig.json
+C:\Users\user\Desktop\Tenth Code Challenge\bin\Debug\net5.0\Tenth Code Challenge.runtimeconfig.dev.json
+C:\Users\user\Desktop\Tenth Code Challenge\bin\Debug\net5.0\Tenth Code Challenge.dll
+C:\Users\user\Desktop\Tenth Code Challenge\bin\Debug\net5.0\ref\Tenth Code Challenge.dll
+C:\Users\user\Desktop\Tenth Code Challenge\bin\Debug\net5.0\Tenth Code Challenge.pdb
+C:\Users\user\Desktop\Tenth Code Challenge\obj\Debug\net5.0\Tenth Code Challenge.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Tenth Code Challenge\obj\Debug\net5.0\Tenth Code Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Tenth Code Challenge\obj\Debug\net5.0\Tenth Code Challenge.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Tenth Code Challenge\obj\Debug\net5.0\Tenth Code Challenge.AssemblyInfo.cs
+C:\Users\user\Desktop\Tenth Code Challenge\obj\Debug\net5.0\Tenth Code Challenge.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Tenth Code Challenge\obj\Debug\net5.0\Tenth Code Challenge.dll
+C:\Users\user\Desktop\Tenth Code Challenge\obj\Debug\net5.0\ref\Tenth Code Challenge.dll
+C:\Users\user\Desktop\Tenth Code Challenge\obj\Debug\net5.0\Tenth Code Challenge.pdb
+C:\Users\user\Desktop\Tenth Code Challenge\obj\Debug\net5.0\Tenth Code Challenge.genruntimeconfig.cache

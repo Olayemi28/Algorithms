@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Nineth Code Challenge\bin\Debug\net5.0\Nineth Code Challenge.exe
+C:\Users\user\Desktop\Nineth Code Challenge\bin\Debug\net5.0\Nineth Code Challenge.deps.json
+C:\Users\user\Desktop\Nineth Code Challenge\bin\Debug\net5.0\Nineth Code Challenge.runtimeconfig.json
+C:\Users\user\Desktop\Nineth Code Challenge\bin\Debug\net5.0\Nineth Code Challenge.runtimeconfig.dev.json
+C:\Users\user\Desktop\Nineth Code Challenge\bin\Debug\net5.0\Nineth Code Challenge.dll
+C:\Users\user\Desktop\Nineth Code Challenge\bin\Debug\net5.0\ref\Nineth Code Challenge.dll
+C:\Users\user\Desktop\Nineth Code Challenge\bin\Debug\net5.0\Nineth Code Challenge.pdb
+C:\Users\user\Desktop\Nineth Code Challenge\obj\Debug\net5.0\Nineth Code Challenge.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Nineth Code Challenge\obj\Debug\net5.0\Nineth Code Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Nineth Code Challenge\obj\Debug\net5.0\Nineth Code Challenge.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Nineth Code Challenge\obj\Debug\net5.0\Nineth Code Challenge.AssemblyInfo.cs
+C:\Users\user\Desktop\Nineth Code Challenge\obj\Debug\net5.0\Nineth Code Challenge.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Nineth Code Challenge\obj\Debug\net5.0\Nineth Code Challenge.dll
+C:\Users\user\Desktop\Nineth Code Challenge\obj\Debug\net5.0\ref\Nineth Code Challenge.dll
+C:\Users\user\Desktop\Nineth Code Challenge\obj\Debug\net5.0\Nineth Code Challenge.pdb
+C:\Users\user\Desktop\Nineth Code Challenge\obj\Debug\net5.0\Nineth Code Challenge.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\user\Documents\programming\ASSIGNMENT (2)\EighthCodeChallenge\bin\Debug\net5.0\EighthCodeChallenge.exe
+C:\Users\user\Documents\programming\ASSIGNMENT (2)\EighthCodeChallenge\bin\Debug\net5.0\EighthCodeChallenge.deps.json
+C:\Users\user\Documents\programming\ASSIGNMENT (2)\EighthCodeChallenge\bin\Debug\net5.0\EighthCodeChallenge.runtimeconfig.json
+C:\Users\user\Documents\programming\ASSIGNMENT (2)\EighthCodeChallenge\bin\Debug\net5.0\EighthCodeChallenge.runtimeconfig.dev.json
+C:\Users\user\Documents\programming\ASSIGNMENT (2)\EighthCodeChallenge\bin\Debug\net5.0\EighthCodeChallenge.dll
+C:\Users\user\Documents\programming\ASSIGNMENT (2)\EighthCodeChallenge\bin\Debug\net5.0\ref\EighthCodeChallenge.dll
+C:\Users\user\Documents\programming\ASSIGNMENT (2)\EighthCodeChallenge\bin\Debug\net5.0\EighthCodeChallenge.pdb
+C:\Users\user\Documents\programming\ASSIGNMENT (2)\EighthCodeChallenge\obj\Debug\net5.0\EighthCodeChallenge.csproj.AssemblyReference.cache
+C:\Users\user\Documents\programming\ASSIGNMENT (2)\EighthCodeChallenge\obj\Debug\net5.0\EighthCodeChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\programming\ASSIGNMENT (2)\EighthCodeChallenge\obj\Debug\net5.0\EighthCodeChallenge.AssemblyInfoInputs.cache
+C:\Users\user\Documents\programming\ASSIGNMENT (2)\EighthCodeChallenge\obj\Debug\net5.0\EighthCodeChallenge.AssemblyInfo.cs
+C:\Users\user\Documents\programming\ASSIGNMENT (2)\EighthCodeChallenge\obj\Debug\net5.0\EighthCodeChallenge.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\programming\ASSIGNMENT (2)\EighthCodeChallenge\obj\Debug\net5.0\EighthCodeChallenge.dll
+C:\Users\user\Documents\programming\ASSIGNMENT (2)\EighthCodeChallenge\obj\Debug\net5.0\ref\EighthCodeChallenge.dll
+C:\Users\user\Documents\programming\ASSIGNMENT (2)\EighthCodeChallenge\obj\Debug\net5.0\EighthCodeChallenge.pdb
+C:\Users\user\Documents\programming\ASSIGNMENT (2)\EighthCodeChallenge\obj\Debug\net5.0\EighthCodeChallenge.genruntimeconfig.cache

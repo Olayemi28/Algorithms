@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\ASSIGNMENT (2)\FifthCodeChallenge\FifthCodeChallenge\FifthCodeChallenge\bin\Debug\net5.0\FifthCodeChallenge.exe
+C:\Users\user\Desktop\ASSIGNMENT (2)\FifthCodeChallenge\FifthCodeChallenge\FifthCodeChallenge\bin\Debug\net5.0\FifthCodeChallenge.deps.json
+C:\Users\user\Desktop\ASSIGNMENT (2)\FifthCodeChallenge\FifthCodeChallenge\FifthCodeChallenge\bin\Debug\net5.0\FifthCodeChallenge.runtimeconfig.json
+C:\Users\user\Desktop\ASSIGNMENT (2)\FifthCodeChallenge\FifthCodeChallenge\FifthCodeChallenge\bin\Debug\net5.0\FifthCodeChallenge.runtimeconfig.dev.json
+C:\Users\user\Desktop\ASSIGNMENT (2)\FifthCodeChallenge\FifthCodeChallenge\FifthCodeChallenge\bin\Debug\net5.0\FifthCodeChallenge.dll
+C:\Users\user\Desktop\ASSIGNMENT (2)\FifthCodeChallenge\FifthCodeChallenge\FifthCodeChallenge\bin\Debug\net5.0\ref\FifthCodeChallenge.dll
+C:\Users\user\Desktop\ASSIGNMENT (2)\FifthCodeChallenge\FifthCodeChallenge\FifthCodeChallenge\bin\Debug\net5.0\FifthCodeChallenge.pdb
+C:\Users\user\Desktop\ASSIGNMENT (2)\FifthCodeChallenge\FifthCodeChallenge\FifthCodeChallenge\obj\Debug\net5.0\FifthCodeChallenge.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ASSIGNMENT (2)\FifthCodeChallenge\FifthCodeChallenge\FifthCodeChallenge\obj\Debug\net5.0\FifthCodeChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ASSIGNMENT (2)\FifthCodeChallenge\FifthCodeChallenge\FifthCodeChallenge\obj\Debug\net5.0\FifthCodeChallenge.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ASSIGNMENT (2)\FifthCodeChallenge\FifthCodeChallenge\FifthCodeChallenge\obj\Debug\net5.0\FifthCodeChallenge.AssemblyInfo.cs
+C:\Users\user\Desktop\ASSIGNMENT (2)\FifthCodeChallenge\FifthCodeChallenge\FifthCodeChallenge\obj\Debug\net5.0\FifthCodeChallenge.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ASSIGNMENT (2)\FifthCodeChallenge\FifthCodeChallenge\FifthCodeChallenge\obj\Debug\net5.0\FifthCodeChallenge.dll
+C:\Users\user\Desktop\ASSIGNMENT (2)\FifthCodeChallenge\FifthCodeChallenge\FifthCodeChallenge\obj\Debug\net5.0\ref\FifthCodeChallenge.dll
+C:\Users\user\Desktop\ASSIGNMENT (2)\FifthCodeChallenge\FifthCodeChallenge\FifthCodeChallenge\obj\Debug\net5.0\FifthCodeChallenge.pdb
+C:\Users\user\Desktop\ASSIGNMENT (2)\FifthCodeChallenge\FifthCodeChallenge\FifthCodeChallenge\obj\Debug\net5.0\FifthCodeChallenge.genruntimeconfig.cache

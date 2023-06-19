@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\FourthCodeChallenge\bin\Debug\net5.0\FourthCodeChallenge.exe
+C:\Users\user\Desktop\FourthCodeChallenge\bin\Debug\net5.0\FourthCodeChallenge.deps.json
+C:\Users\user\Desktop\FourthCodeChallenge\bin\Debug\net5.0\FourthCodeChallenge.runtimeconfig.json
+C:\Users\user\Desktop\FourthCodeChallenge\bin\Debug\net5.0\FourthCodeChallenge.runtimeconfig.dev.json
+C:\Users\user\Desktop\FourthCodeChallenge\bin\Debug\net5.0\FourthCodeChallenge.dll
+C:\Users\user\Desktop\FourthCodeChallenge\bin\Debug\net5.0\ref\FourthCodeChallenge.dll
+C:\Users\user\Desktop\FourthCodeChallenge\bin\Debug\net5.0\FourthCodeChallenge.pdb
+C:\Users\user\Desktop\FourthCodeChallenge\obj\Debug\net5.0\FourthCodeChallenge.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\FourthCodeChallenge\obj\Debug\net5.0\FourthCodeChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\FourthCodeChallenge\obj\Debug\net5.0\FourthCodeChallenge.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\FourthCodeChallenge\obj\Debug\net5.0\FourthCodeChallenge.AssemblyInfo.cs
+C:\Users\user\Desktop\FourthCodeChallenge\obj\Debug\net5.0\FourthCodeChallenge.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\FourthCodeChallenge\obj\Debug\net5.0\FourthCodeChallenge.dll
+C:\Users\user\Desktop\FourthCodeChallenge\obj\Debug\net5.0\ref\FourthCodeChallenge.dll
+C:\Users\user\Desktop\FourthCodeChallenge\obj\Debug\net5.0\FourthCodeChallenge.pdb
+C:\Users\user\Desktop\FourthCodeChallenge\obj\Debug\net5.0\FourthCodeChallenge.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\ASSIGNMENT (2)\SeventhCodeChallenge\SeventhCodeChallenge\SeventhCodeChallenge\bin\Debug\net5.0\SeventhCodeChallenge.exe
+C:\Users\user\Desktop\ASSIGNMENT (2)\SeventhCodeChallenge\SeventhCodeChallenge\SeventhCodeChallenge\bin\Debug\net5.0\SeventhCodeChallenge.deps.json
+C:\Users\user\Desktop\ASSIGNMENT (2)\SeventhCodeChallenge\SeventhCodeChallenge\SeventhCodeChallenge\bin\Debug\net5.0\SeventhCodeChallenge.runtimeconfig.json
+C:\Users\user\Desktop\ASSIGNMENT (2)\SeventhCodeChallenge\SeventhCodeChallenge\SeventhCodeChallenge\bin\Debug\net5.0\SeventhCodeChallenge.runtimeconfig.dev.json
+C:\Users\user\Desktop\ASSIGNMENT (2)\SeventhCodeChallenge\SeventhCodeChallenge\SeventhCodeChallenge\bin\Debug\net5.0\SeventhCodeChallenge.dll
+C:\Users\user\Desktop\ASSIGNMENT (2)\SeventhCodeChallenge\SeventhCodeChallenge\SeventhCodeChallenge\bin\Debug\net5.0\ref\SeventhCodeChallenge.dll
+C:\Users\user\Desktop\ASSIGNMENT (2)\SeventhCodeChallenge\SeventhCodeChallenge\SeventhCodeChallenge\bin\Debug\net5.0\SeventhCodeChallenge.pdb
+C:\Users\user\Desktop\ASSIGNMENT (2)\SeventhCodeChallenge\SeventhCodeChallenge\SeventhCodeChallenge\obj\Debug\net5.0\SeventhCodeChallenge.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ASSIGNMENT (2)\SeventhCodeChallenge\SeventhCodeChallenge\SeventhCodeChallenge\obj\Debug\net5.0\SeventhCodeChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ASSIGNMENT (2)\SeventhCodeChallenge\SeventhCodeChallenge\SeventhCodeChallenge\obj\Debug\net5.0\SeventhCodeChallenge.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ASSIGNMENT (2)\SeventhCodeChallenge\SeventhCodeChallenge\SeventhCodeChallenge\obj\Debug\net5.0\SeventhCodeChallenge.AssemblyInfo.cs
+C:\Users\user\Desktop\ASSIGNMENT (2)\SeventhCodeChallenge\SeventhCodeChallenge\SeventhCodeChallenge\obj\Debug\net5.0\SeventhCodeChallenge.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ASSIGNMENT (2)\SeventhCodeChallenge\SeventhCodeChallenge\SeventhCodeChallenge\obj\Debug\net5.0\SeventhCodeChallenge.dll
+C:\Users\user\Desktop\ASSIGNMENT (2)\SeventhCodeChallenge\SeventhCodeChallenge\SeventhCodeChallenge\obj\Debug\net5.0\ref\SeventhCodeChallenge.dll
+C:\Users\user\Desktop\ASSIGNMENT (2)\SeventhCodeChallenge\SeventhCodeChallenge\SeventhCodeChallenge\obj\Debug\net5.0\SeventhCodeChallenge.pdb
+C:\Users\user\Desktop\ASSIGNMENT (2)\SeventhCodeChallenge\SeventhCodeChallenge\SeventhCodeChallenge\obj\Debug\net5.0\SeventhCodeChallenge.genruntimeconfig.cache

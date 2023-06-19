@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Tenth Code Challenge/1.0.0": {
+        "runtime": {
+          "Tenth Code Challenge.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tenth Code Challenge/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,32 @@
+C:\Users\user\Documents\Git\Fundamental Chapter 6\Question 18\bin\Debug\net5.0\Question 18.exe
+C:\Users\user\Documents\Git\Fundamental Chapter 6\Question 18\bin\Debug\net5.0\Question 18.deps.json
+C:\Users\user\Documents\Git\Fundamental Chapter 6\Question 18\bin\Debug\net5.0\Question 18.runtimeconfig.json
+C:\Users\user\Documents\Git\Fundamental Chapter 6\Question 18\bin\Debug\net5.0\Question 18.runtimeconfig.dev.json
+C:\Users\user\Documents\Git\Fundamental Chapter 6\Question 18\bin\Debug\net5.0\Question 18.dll
+C:\Users\user\Documents\Git\Fundamental Chapter 6\Question 18\bin\Debug\net5.0\ref\Question 18.dll
+C:\Users\user\Documents\Git\Fundamental Chapter 6\Question 18\bin\Debug\net5.0\Question 18.pdb
+C:\Users\user\Documents\Git\Fundamental Chapter 6\Question 18\obj\Debug\net5.0\Question 18.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Git\Fundamental Chapter 6\Question 18\obj\Debug\net5.0\Question 18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Git\Fundamental Chapter 6\Question 18\obj\Debug\net5.0\Question 18.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Git\Fundamental Chapter 6\Question 18\obj\Debug\net5.0\Question 18.AssemblyInfo.cs
+C:\Users\user\Documents\Git\Fundamental Chapter 6\Question 18\obj\Debug\net5.0\Question 18.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Git\Fundamental Chapter 6\Question 18\obj\Debug\net5.0\Question 18.dll
+C:\Users\user\Documents\Git\Fundamental Chapter 6\Question 18\obj\Debug\net5.0\ref\Question 18.dll
+C:\Users\user\Documents\Git\Fundamental Chapter 6\Question 18\obj\Debug\net5.0\Question 18.pdb
+C:\Users\user\Documents\Git\Fundamental Chapter 6\Question 18\obj\Debug\net5.0\Question 18.genruntimeconfig.cache
+C:\Users\user\Documents\Algorithm Questions\Fundamental\Loops\Question 18\obj\Debug\net5.0\Question 18.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Algorithm Questions\Fundamental\Loops\Question 18\obj\Debug\net5.0\Question 18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Algorithm Questions\Fundamental\Loops\Question 18\obj\Debug\net5.0\Question 18.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Algorithm Questions\Fundamental\Loops\Question 18\obj\Debug\net5.0\Question 18.AssemblyInfo.cs
+C:\Users\user\Documents\Algorithm Questions\Fundamental\Loops\Question 18\obj\Debug\net5.0\Question 18.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Algorithm Questions\Fundamental\Loops\Question 18\obj\Debug\net5.0\Question 18.dll
+C:\Users\user\Documents\Algorithm Questions\Fundamental\Loops\Question 18\obj\Debug\net5.0\ref\Question 18.dll
+C:\Users\user\Documents\Algorithm Questions\Fundamental\Loops\Question 18\obj\Debug\net5.0\Question 18.pdb
+C:\Users\user\Documents\Algorithm Questions\Fundamental\Loops\Question 18\bin\Debug\net5.0\Question 18.exe
+C:\Users\user\Documents\Algorithm Questions\Fundamental\Loops\Question 18\bin\Debug\net5.0\Question 18.deps.json
+C:\Users\user\Documents\Algorithm Questions\Fundamental\Loops\Question 18\bin\Debug\net5.0\Question 18.runtimeconfig.json
+C:\Users\user\Documents\Algorithm Questions\Fundamental\Loops\Question 18\bin\Debug\net5.0\Question 18.runtimeconfig.dev.json
+C:\Users\user\Documents\Algorithm Questions\Fundamental\Loops\Question 18\bin\Debug\net5.0\Question 18.dll
+C:\Users\user\Documents\Algorithm Questions\Fundamental\Loops\Question 18\bin\Debug\net5.0\ref\Question 18.dll
+C:\Users\user\Documents\Algorithm Questions\Fundamental\Loops\Question 18\bin\Debug\net5.0\Question 18.pdb
+C:\Users\user\Documents\Algorithm Questions\Fundamental\Loops\Question 18\obj\Debug\net5.0\Question 18.genruntimeconfig.cache

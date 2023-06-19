@@ -1,0 +1,32 @@
+C:\Users\user\source\repos\SecondWeekCodeChallenge\bin\Debug\net5.0\SecondWeekCodeChallenge.exe
+C:\Users\user\source\repos\SecondWeekCodeChallenge\bin\Debug\net5.0\SecondWeekCodeChallenge.deps.json
+C:\Users\user\source\repos\SecondWeekCodeChallenge\bin\Debug\net5.0\SecondWeekCodeChallenge.runtimeconfig.json
+C:\Users\user\source\repos\SecondWeekCodeChallenge\bin\Debug\net5.0\SecondWeekCodeChallenge.runtimeconfig.dev.json
+C:\Users\user\source\repos\SecondWeekCodeChallenge\bin\Debug\net5.0\SecondWeekCodeChallenge.dll
+C:\Users\user\source\repos\SecondWeekCodeChallenge\bin\Debug\net5.0\ref\SecondWeekCodeChallenge.dll
+C:\Users\user\source\repos\SecondWeekCodeChallenge\bin\Debug\net5.0\SecondWeekCodeChallenge.pdb
+C:\Users\user\source\repos\SecondWeekCodeChallenge\obj\Debug\net5.0\SecondWeekCodeChallenge.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\SecondWeekCodeChallenge\obj\Debug\net5.0\SecondWeekCodeChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\SecondWeekCodeChallenge\obj\Debug\net5.0\SecondWeekCodeChallenge.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\SecondWeekCodeChallenge\obj\Debug\net5.0\SecondWeekCodeChallenge.AssemblyInfo.cs
+C:\Users\user\source\repos\SecondWeekCodeChallenge\obj\Debug\net5.0\SecondWeekCodeChallenge.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SecondWeekCodeChallenge\obj\Debug\net5.0\SecondWeekCodeChallenge.dll
+C:\Users\user\source\repos\SecondWeekCodeChallenge\obj\Debug\net5.0\ref\SecondWeekCodeChallenge.dll
+C:\Users\user\source\repos\SecondWeekCodeChallenge\obj\Debug\net5.0\SecondWeekCodeChallenge.pdb
+C:\Users\user\source\repos\SecondWeekCodeChallenge\obj\Debug\net5.0\SecondWeekCodeChallenge.genruntimeconfig.cache
+C:\Users\user\Desktop\ASSIGNMENT (2)\SecondWeekCodeChallenge\bin\Debug\net5.0\SecondWeekCodeChallenge.exe
+C:\Users\user\Desktop\ASSIGNMENT (2)\SecondWeekCodeChallenge\bin\Debug\net5.0\SecondWeekCodeChallenge.deps.json
+C:\Users\user\Desktop\ASSIGNMENT (2)\SecondWeekCodeChallenge\bin\Debug\net5.0\SecondWeekCodeChallenge.runtimeconfig.json
+C:\Users\user\Desktop\ASSIGNMENT (2)\SecondWeekCodeChallenge\bin\Debug\net5.0\SecondWeekCodeChallenge.runtimeconfig.dev.json
+C:\Users\user\Desktop\ASSIGNMENT (2)\SecondWeekCodeChallenge\bin\Debug\net5.0\SecondWeekCodeChallenge.dll
+C:\Users\user\Desktop\ASSIGNMENT (2)\SecondWeekCodeChallenge\bin\Debug\net5.0\ref\SecondWeekCodeChallenge.dll
+C:\Users\user\Desktop\ASSIGNMENT (2)\SecondWeekCodeChallenge\bin\Debug\net5.0\SecondWeekCodeChallenge.pdb
+C:\Users\user\Desktop\ASSIGNMENT (2)\SecondWeekCodeChallenge\obj\Debug\net5.0\SecondWeekCodeChallenge.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ASSIGNMENT (2)\SecondWeekCodeChallenge\obj\Debug\net5.0\SecondWeekCodeChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ASSIGNMENT (2)\SecondWeekCodeChallenge\obj\Debug\net5.0\SecondWeekCodeChallenge.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ASSIGNMENT (2)\SecondWeekCodeChallenge\obj\Debug\net5.0\SecondWeekCodeChallenge.AssemblyInfo.cs
+C:\Users\user\Desktop\ASSIGNMENT (2)\SecondWeekCodeChallenge\obj\Debug\net5.0\SecondWeekCodeChallenge.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ASSIGNMENT (2)\SecondWeekCodeChallenge\obj\Debug\net5.0\SecondWeekCodeChallenge.dll
+C:\Users\user\Desktop\ASSIGNMENT (2)\SecondWeekCodeChallenge\obj\Debug\net5.0\ref\SecondWeekCodeChallenge.dll
+C:\Users\user\Desktop\ASSIGNMENT (2)\SecondWeekCodeChallenge\obj\Debug\net5.0\SecondWeekCodeChallenge.pdb
+C:\Users\user\Desktop\ASSIGNMENT (2)\SecondWeekCodeChallenge\obj\Debug\net5.0\SecondWeekCodeChallenge.genruntimeconfig.cache
